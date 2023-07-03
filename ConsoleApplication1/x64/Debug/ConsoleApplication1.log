@@ -1,0 +1,4 @@
+﻿  unordered_set.h
+C:\Users\Haran\source\repos\ConsoleApplication1\ConsoleApplication1\unordered_set2.h(13,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+ConsoleApplication1.obj : error LNK2019: symbole externe non résolu "public: class unordered_multiset<double,struct std::hash<double> >::iterator __cdecl unordered_multiset<double,struct std::hash<double> >::insert(double const &)" (?insert@?$unordered_multiset@NU?$hash@N@std@@@@QEAA?AViterator@1@AEBN@Z) référencé dans la fonction main
+C:\Users\Haran\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe : fatal error LNK1120: 1 externes non résolus
